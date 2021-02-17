@@ -1,0 +1,11 @@
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding: 10px 20px;
+  border-bottom: 1px solid #ced4da;
+}
+
+.navbar > i {
+  margin: 0 0.5rem 0.75rem;
+}

@@ -1,0 +1,18 @@
+.signinreg-section {
+  width: 400px;
+  height: 350px;
+  text-align: center;
+  margin: 6rem auto;
+}
+
+.signinreg-section > input {
+  margin: 0.75rem auto;
+}
+
+.register-title {
+  cursor: pointer;
+}
+
+.error-title {
+  color: red;
+}
